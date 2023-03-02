@@ -1,0 +1,23 @@
+image:
+  file: .gitpod.dockerfile
+ports:
+  - port: 19000-19002
+vscode:
+  extensions:
+    - dsznajder.es7-react-js-snippets
+    - esbenp.prettier-vscode
+    - humao.rest-client
+    - cweijan.vscode-database-client2
+    - formulahendry.auto-rename-tag
+    - paulmolluzzo.convert-css-in-js
+    - bierner.color-info
+    - codezombiech.gitignore
+    - graphql.vscode-graphql-syntax
+    - graphql.vscode-graphql
+    - graphql.vscode-graphql-execution
+    - mrmlnc.vscode-json5
+    - tyriar.lorem-ipsum
+    - bierner.markdown-checkbox
+    - quicktype.quicktype
+    - bradlc.vscode-tailwindcss
+    - gabrielnordeborn.vscode-graphiql-explorer
